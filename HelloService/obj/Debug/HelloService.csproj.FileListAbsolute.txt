@@ -1,0 +1,10 @@
+C:\Users\admin\source\repos\ServiceData\HelloService\bin\Debug\HelloService.dll.config
+C:\Users\admin\source\repos\ServiceData\HelloService\bin\Debug\HelloService.dll
+C:\Users\admin\source\repos\ServiceData\HelloService\bin\Debug\HelloService.pdb
+C:\Users\admin\source\repos\ServiceData\HelloService\bin\Debug\System.ServiceModel.Primitives.dll
+C:\Users\admin\source\repos\ServiceData\HelloService\bin\Debug\System.ServiceModel.Primitives.pdb
+C:\Users\admin\source\repos\ServiceData\HelloService\obj\Debug\HelloService.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\ServiceData\HelloService\obj\Debug\HelloService.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\ServiceData\HelloService\obj\Debug\HelloService.csproj.CopyComplete
+C:\Users\admin\source\repos\ServiceData\HelloService\obj\Debug\HelloService.dll
+C:\Users\admin\source\repos\ServiceData\HelloService\obj\Debug\HelloService.pdb
